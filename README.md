@@ -1,2 +1,4 @@
-# MY-first-pygame
-This is my first project after learning python and i hope to further clear my concepts by doing this project and aim to learn more about python and github.
+# Movie_Data_Analysis
+this is my first data analysis project in this i have used python libraries such as numpy , pandas , matplotlib , seaborne and the data i used is of netflix movies .
+In this project i did data cleaning , transforming and then i pulled valuable insights from the data 
+
